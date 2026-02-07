@@ -49,7 +49,7 @@ Este repositório apresenta uma **aplicação web de To-Do List** desenvolvida u
 
 Você pode acessar a versão online do projeto aqui:
 
-👉 *ederaldoleao.github.io*
+👉 *https://ederaldoleao.github.io*
 
 ---
 

@@ -58,3 +58,9 @@ Você pode acessar a versão online do projeto aqui:
 * **HTML5**
 * **CSS3**
 * **JavaScript (Vanilla)**
+
+---
+
+## 📌 Aviso
+
+Este projeto foi desenvolvido **exclusivamente para fins educacionais**, com o objetivo de fortalecer os fundamentos de desenvolvimento front-end.

@@ -51,7 +51,7 @@ This repository presents a **To-Do List web application** built using **HTML, CS
 
 You can access the live version of this project here:
 
-👉 *https://ederaldoleao.github.io*
+👉 *[https://ederaldoleao.github.io](https://ederaldoleao.github.io/todo-List/)*
 
 ---
 
